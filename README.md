@@ -14,6 +14,7 @@ Computer Vision
       cmd. pip install cv2
 
 Sample:
+youtube channel : https://www.youtube.com/channel/UCLgzjyr34Wlz-9VdgMTLbvA
 
 - LED OFF Condition
   
