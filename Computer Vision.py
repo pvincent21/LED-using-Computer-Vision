@@ -1,6 +1,6 @@
-// pip install serial
-// pip install time
-// pip install cvzone
+#pip install serial
+#pip install time
+#pip install cvzone
 
 import cv2
 import serial
